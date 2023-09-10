@@ -1,0 +1,29 @@
+.avo {
+    background-color: #00ffff;
+    height: 500px;
+    width: 500px;
+}
+
+.pai {
+    background-color: #ff9b9b; 
+    height: 250px;
+    width: 250px;
+}
+
+.filho {
+    background-color: #0000ff; 
+    font-size: 25px; font-family: Arial, Helvetica, sans-serif; 
+    font-weight: bold;
+    color: rgb(255, 0, 0);
+}
+
+.mae {
+    height: 50%;
+    background-color: rgb(128, 0, 105);
+}
+
+.filha {
+    width: 75%; 
+    height: 25%; 
+    background-color: rgb(21, 0, 255);
+}
